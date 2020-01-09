@@ -1,0 +1,359 @@
+body { 
+    background: url("../../images/world.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* overflow: hidden; */
+} 
+nav, .navbar-brand{
+    font-size: 135%;
+    
+}
+#invisible, #navbarNavDropdown{
+    width: 24%;
+}
+.techUsed{
+    display: inline;
+    font-size: 24px;
+}
+.dropdown-item:nth-child(even) {
+    background: #d9dddd;
+  }
+#F1{
+    width: 76%;
+}
+#icons{
+    width: 50%;
+    text-align: center;
+    font-size: 135%;
+    color: white;
+}
+a{
+    color: white;
+}
+#N1{
+    background-color: #0f00ba !important;
+    
+    /* border-bottom: 16px white solid; */
+}
+
+#about{
+    /* width: 80%; */
+    background-color: white;
+    border: 10px black solid;
+    /* border-radius: 25%; */
+    margin: 0 auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    padding: 1%;
+    background: url("../../images/black.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    display: none;
+    /* overflow: scroll; */
+    /* position: fixed; */
+
+}
+#contact{
+    margin-top: 8.5%;
+    background-color: white;
+    border: 10px black solid;
+    padding: 2%;
+}
+#resume{
+  
+    background-color: white;
+    border: 10px black solid;
+    padding: 2%;
+    margin-top: 8.5%;
+    width: 54%;
+    margin: 108px auto;
+    /* text-align: center; */
+}
+#work{
+    color: white;
+    /* background-color: white; */
+    border: 10px black solid;
+    padding: 2%;
+    background-color: black; 
+    /* margin-top: 8.5%; */
+    /* width: 54%; */
+    margin: 108px auto;
+    /* text-align: center; */
+}
+#portLink{
+    border-radius: 0px;
+}
+#portRepo{
+    margin-left: 1%;
+    border-radius: 0px;
+}
+#portRepo2{
+    /* margin-left: 1%; */
+    border-radius: 0px;
+}
+#work{
+    color: white;
+    /* background-color: white; */
+    border: 10px black solid;
+    padding: 2%;
+    background-color: black; 
+    /* margin-top: 8.5%; */
+    /* width: 54%; */
+    margin: 108px auto;
+    /* text-align: center; */
+}
+ #portfolio{
+    color: white;
+    /* background-color: white; */
+    /* border: 10px black solid; */
+    padding: 1%;
+    background-color: black; 
+
+    margin-top: 108px;
+    /* text-align: center; */
+}
+#description{
+    color: white;
+    padding: 1%;
+    background-color: black; 
+    margin-top: 4%;
+    margin-bottom: 4%;
+    font-size: 18px;
+}
+#portfolio h2{
+    text-align: center;
+    padding-bottom: 0.2%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#picture, #button1 {
+    width: 49%;
+    display: inline-block;
+}
+.clinicPic {
+    width: 76%;
+    border: 3px solid black;
+}
+#work .card {
+    color: white;
+    background-color: #0f00ba;
+}
+
+#button5{
+    color: white;
+}
+#button3{
+    color: black;
+    background-color: yellow;
+}
+#work .card {
+    color: white;
+    background-color: #0f00ba !important;
+}
+.link1{
+    
+}
+#medical{
+    font-size: 51px;
+    color: #0f00ba;
+}
+.aCenter {
+
+    text-align: center; 
+}
+.body1{
+    background-color: white;
+    color: black;
+}
+.link1 {
+    font-size: 17px;
+    margin-top: 7%;
+}
+#wText, #wText2, .wText3{
+    font-size: 20px;
+}
+#work h3{
+    font-size: 30px;
+}
+/* #work img{
+    width: 25%;
+} */
+#resBut{
+    margin-top: 6%;
+}
+.black{
+    background-color: black;
+}
+#h2Down{
+    text-align: center;
+}
+#resumeButton{
+    width: 100%;
+    padding: 2% 0%;
+    font-size: 41px;
+}
+.buttonSec{
+    text-align: center;
+}
+#credit2{
+    float: right;
+}
+#hello{
+    text-decoration: underline;
+    width: 1;
+    margin-bottom: 1%;
+}
+.about{
+    font-size: 17px;
+}
+h5{
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+#about p{
+    /* color: #0f00ba; */
+}
+#I1{
+    margin-right: 0.5%;
+}
+#I2{
+    margin-left: 0.5%;
+}
+.card{
+    margin-bottom: 3%;
+}
+/* .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
+} */
+#portRepo3{
+    background-color: grey;
+    color: white;
+    cursor: auto;
+    border: none;
+    margin-left: 1%;
+}
+.anicaCarousel .carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.anicaCarousel2 .carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.anicaCarousel .carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+}
+
+.anicaCarousel2 .carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 55px;
+    color: red;
+  }
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-collapse {
+    /* display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    flex-direction: row-reverse; */
+}
+#B1{
+    overflow: hidden;
+}
+#B2{
+    width: 100%;
+}
+}
+@media (max-width: 767.98px) { 
+    #about{
+        margin-top: 15%;
+    }
+ }
+
+ @media (max-width: 767.98px) { 
+   #contact, #resume, #work{
+        margin-top: 23%;
+        margin-bottom: 12%;
+    }
+ }
+
+ @media (max-width: 767.98px){
+ 
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    #contact{
+        margin-top: 15%;
+    }
+ }
+
+ @media (max-width: 991.98px) { 
+    .navbar-toggler{
+        width: 6%;
+    }
+    #invisible{
+        width: 6%;
+    }
+    #resume{
+        width: 100%;
+    }
+    .link1{
+        width: 100%;
+    }
+
+ }
+ @media (min-width: 992px) { 
+    .link1 {
+        font-size: 26px;
+        margin-top: 8%;
+    }
+
+ }
+ @media (max-width: 575.98px) { 
+    .navbar-toggler{
+        width: 15%;
+    }
+    #invisible{
+        width: 15%;
+    }
+    #hello {
+        text-decoration: underline;
+        width: 1;
+        margin-bottom: 9%;
+    }
+    #B2{
+        width: 100%;
+    }
+    #resume, #contact{
+        padding-top: 5%;
+    padding-bottom: 9%;
+    }
+    #about {
+        margin-top: 28%;
+    }
+  }
+
+  #B2{
+    width: 100% !important;
+}
