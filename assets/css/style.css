@@ -41,14 +41,15 @@ a{
 
 #about{
     /* width: 80%; */
-    background-color: white;
+    background-color: black;
     border: 10px black solid;
+    opacity: 0.9;
     /* border-radius: 25%; */
     margin: 0 auto;
     margin-top: 6%;
     margin-bottom: 6%;
     padding: 1%;
-    background: url("../../images/black.jpg") no-repeat center center fixed; 
+    /* background: url("../../images/black.jpg") no-repeat center center fixed;  */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -330,6 +331,12 @@ h5{
     }
 
  }
+ @media (min-width: 1281px) { 
+     #about{
+         margin-top: 13%;
+         margin-bottom: 0px;
+     }
+  }
  @media (max-width: 575.98px) { 
     .navbar-toggler{
         width: 15%;
