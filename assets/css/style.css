@@ -337,6 +337,12 @@ h5{
          margin-bottom: 0px;
      }
   }
+@media (min-width: 1700px) { 
+    #about{
+        margin-top: 16%;
+        margin-bottom: 0px;
+    }
+ }
  @media (max-width: 575.98px) { 
     .navbar-toggler{
         width: 15%;
